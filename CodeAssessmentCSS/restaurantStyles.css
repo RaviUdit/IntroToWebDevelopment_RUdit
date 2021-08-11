@@ -1,7 +1,22 @@
 header, footer {
 	background-color: #DA1A35;
+	
 	color: #FFFFFF;
-	
-	
 	text-align: center;
+} 
+
+a:link{
+	
+}
+
+a:visited{
+	color: red;
+}
+
+a:hover{
+	font-weight: bold;
+}
+
+a:active{
+	text-decoration: none; 
 }
