@@ -5,6 +5,18 @@ header, footer {
 	text-align: center;
 } 
 
+body{
+	width: 1080px; 
+	background-color: black;
+					
+	color: white;
+	}
+	
+nav{
+	text-align: center;
+	}
+				
+
 a:link{
 	
 }
